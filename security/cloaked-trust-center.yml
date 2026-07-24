@@ -1,0 +1,24 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.cloaked.com/
+url: https://trust.cloaked.com/
+platform: SafeBase
+certifications:
+- SOC 2 Type 2
+- ISO/IEC 27001:2022
+- ISO/IEC 27701:2019
+- PCI DSS v4.0.1
+- CASA Tier 2
+evidence:
+- source: https://trust.cloaked.com/
+  keywords:
+  - soc 2 type 2
+  - iso/iec 27001:2022
+  - iso/iec 27701:2019
+  - pci dss v4.0.1
+  - casa tier 2
+  - trust center
+- source: https://www.cloaked.com/post/cloaked-achieves-soc-2-type-ii-compliance
+  keywords:
+  - soc 2 type ii

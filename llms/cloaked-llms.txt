@@ -1,0 +1,38 @@
+# Cloaked
+
+> Cloaked is a privacy app that lets users create unique identities, masked emails, phone numbers and virtual cards to protect their personal data.
+
+This file helps language models understand Cloaked's most important pages. Pages are listed in order of importance based on organic search traffic . Traffic centers on plans, privacy features and educational content about protecting personal data.
+
+## Features
+
+- [Call Guard](https://www.cloaked.com/features/call-guard): Cloaked feature that uses AI to screen unknown incoming calls in real time, automatically blocking spam calls, robocalls, and scam calls before they ring the user's phone. Legitimate callers are passed through with a transcript.
+
+- [Dark Web & SSN Monitoring](https://www.cloaked.com/features/dark-web-ssn-monitoring): Cloaked feature that continuously scans dark web forums, breach databases, marketplaces, and encrypted channels for eight types of personal data including SSNs. Sends instant push notifications when personal information is detected, with a guided response plan and up to $1 million in identity theft insurance.
+
+- [Data Removal](https://www.cloaked.com/features/data-removal): Cloaked feature that identifies and removes a user's personal information — including name, address, and phone number — from 120+ data broker sites. Includes a personalized exposure risk report and ongoing automated re-removal.
+
+- [Password Manager](https://www.cloaked.com/features/password-manager): Cloaked's built-in password manager for creating, storing, auto-filling, and securely sharing passwords. Integrated within the broader Cloaked identity and privacy platform.
+
+- [Identity Theft Insurance](https://www.cloaked.com/features/identity-theft-insurance): Cloaked feature providing up to $1 million in insurance coverage against identity theft, included with paid Cloaked plans. Covers financial losses resulting from identity theft incidents.
+
+## Blogs
+
+- [Could Your Private Photos Be at Risk from Snapchat Hacking?](https://www.cloaked.com/post/could-your-private-photos-be-at-risk-from-snapchat-hacking-heres-what-you-need-to-know): Covers a documented case of an Illinois man who used phishing to access nearly 600 Snapchat accounts, exposing private photos, credentials, and contact data. Explains the attack method, types of data compromised, and account security steps including 2FA and password hygiene.
+
+- [8+ Best Privacy.com Alternatives for Virtual Cards](https://www.cloaked.com/post/privacy-com-alternatives): Comparison of Privacy.com and alternative virtual card services for anonymous online payments. Reviews features, pricing, and tradeoffs of multiple platforms including Cloaked Pay.
+
+- [Are You Really Safe Using Venmo in 2025?](https://www.cloaked.com/post/are-you-really-safe-using-venmo-in-2025-essential-tips-every-user-needs-to-know): Covers Venmo security vulnerabilities, common fraud and scam tactics targeting Venmo users, and practical steps to reduce risk when using the platform.
+
+- [The Top 3 Worst Password Manager Breaches and Security Issues to Date](https://www.cloaked.com/post/the-top-3-worst-password-manager-breaches-and-security-issues-to-date): Documents the three most significant security incidents involving major password manager products, covering what data was exposed and what users should know.
+
+- [3.3 Billion Emails Exposed — Is Your Email Exposed? What Should You Do?](https://www.cloaked.com/post/3-3-billion-emails-exposed---is-your-email-exposed-what-should-you-do): Covers a large-scale compiled email breach of over 3.3 billion unique addresses leaked to an underground forum, explaining the risks and recommended response steps for affected users.
+
+- [Virtual Credit Cards: How to Use Masked Cards for Anonymous Online Payments](https://www.cloaked.com/post/virtual-credit-cards): Explains how virtual and masked credit cards work, including unique card numbers, spending limits, one-time-use options, and how they protect against credit card fraud and identity theft during online transactions.
+
+- [Hide My Email: What It Is, How to Use It, & Alternatives](https://www.cloaked.com/post/hide-my-email): Explains Apple's Hide My Email feature — how it generates random forwarding email addresses on iCloud+ — covering setup on iPhone, iPad, and Mac, its limitations, and third-party alternatives for Android and Windows users.
+
+## Optional
+
+- [Homepage](https://www.cloaked.com/): Main marketing site for Cloaked, a consumer privacy and identity protection platform offering phone and email aliases, data broker removal, identity theft insurance, call screening, dark web monitoring, a password manager, VPN, and virtual payment features.
+
